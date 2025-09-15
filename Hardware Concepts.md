@@ -12,3 +12,4 @@
 - Takes control of hardware.
 - Creates an environment for **applications** to execute.
 - Controls access to hardware by applications.
+
