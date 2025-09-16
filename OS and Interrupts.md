@@ -41,7 +41,7 @@ You press a key:
 
 1. **Hardware (keyboard)** → sends an interrupt signal to CPU.
 2. **CPU** → pauses current user program and jumps to OS code (keyboard ISR).
-3. **OS code** → reads scancode from keyboard controller and stores it.
+3. **OS code** → reads scanned code from keyboard controller and stores it.
 4. OS later delivers this input to the user program.
 
 ---
